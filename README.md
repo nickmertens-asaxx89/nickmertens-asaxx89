@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickmertens-asaxx89
 - 👀 I’m interested in technology, music, arts, cars
 - 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on html projects for the moment
+- 💞️ I’m looking to collaborate on html, css and javascript projects for the moment
 - 📫 How to reach me: mail
 
 <!---
